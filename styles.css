@@ -100,6 +100,10 @@
     top: 450px;
 }
 
+.banner-2 img{
+    width:100%;
+}
+
 .discount-section {
     position: relative;
     top: 450px;
